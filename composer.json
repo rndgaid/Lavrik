@@ -5,7 +5,8 @@
     "autoload": {
         "psr-4": {
             "Lavrik\\" : "src/",
-            "Lesson01\\hw01\\" : "src/Lesson01/hw01/"
+            "Lesson01\\hw01\\" : "src/Lesson01/hw01/",
+            "Lesson02\\hw02\\" : "src/Lesson02/hw02/"
         }
     },
     "authors": [
