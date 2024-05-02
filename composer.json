@@ -6,7 +6,8 @@
         "psr-4": {
             "Lavrik\\" : "src/",
             "Lesson01\\hw01\\" : "src/Lesson01/hw01/",
-            "Lesson02\\hw02\\" : "src/Lesson02/hw02/"
+            "Lesson02\\hw02\\" : "src/Lesson02/hw02/",
+            "Lesson03\\hw03\\" : "src/Lesson03/hw03/"
         }
     },
     "authors": [
