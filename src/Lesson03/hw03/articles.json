@@ -1,0 +1,17 @@
+{
+  "records": {
+    "1": {
+      "title": "New art",
+      "content": "Content new art"
+    },
+    "2": {
+      "title": "Some art",
+      "content": "Some content art"
+    },
+    "3": {
+      "title": "Next art",
+      "content": "Next content art"
+    }
+  },
+  "ai": 3
+}
